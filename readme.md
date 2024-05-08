@@ -10,7 +10,7 @@
 - [Základy Github-u + ako získať GitHub Education](https://github.com/SPSKNM-cvicenia/Github-Introduction)
 
 ## My Projects
-- A comprehensive SmartCity solution integrating IoT sensors via LoRaWAN technology. It offers a user-friendly interface built in React for accessing real-time data and city updates. Custom sensors were developed for this project.
+- CityApka - A comprehensive SmartCity solution integrating IoT sensors via LoRaWAN technology. It offers a user-friendly interface built in React for accessing real-time data and city updates. Custom sensors were developed for this project.
 
 ## Short CV:
 - 2021: Web Application Developer @ LIDL Slovakia (internship)
