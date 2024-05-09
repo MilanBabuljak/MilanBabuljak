@@ -6,9 +6,10 @@
 - Game/Web/Embedded/XR Developer
 
 ## Resources for my students:
-- [Základy Github-u + ako získať GitHub Education](https://github.com/SPSKNM-cvicenia/Github-Introduction)
+Prosím, pozrite si tento repozitár: https://github.com/MilanBabuljak/Teaching?tab=readme-ov-file
+Nájdete v nom všetko potrebné pre všetky predmety, ktoré učím.
 
-## Current project:
+## Current projects
 - Currently unannounced web app for VUT FIT's competition
 - Low cost ski race tracking solution
 - VR Poject with full body / face tracking
