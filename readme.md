@@ -5,10 +5,6 @@
 - Teacher @ SPŠ IT KNM
 - Game/Web/Embedded/XR Developer
 
-## Resources for my students:
-Prosím, pozrite si tento repozitár: https://github.com/MilanBabuljak/Teaching?tab=readme-ov-file
-Nájdete v nom všetko potrebné pre všetky predmety, ktoré učím.
-
 ## Current projects
 - Currently unannounced web app for VUT FIT's competition
 - Low cost ski race tracking solution
