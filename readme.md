@@ -19,8 +19,7 @@
 - Astrobeat: 5th place in Špongia GameDev compatition, 2021
 
 ## Short CV:
-- 2021: Web Application Developer @ LIDL Slovakia (internship)
-- Since 2022: Lecturer / Gamedev @ Hemisfera.sk (Part Time)
-- 2022-2023: Wezeo - C# Developer (internship / part time)
+- Summer 2021: Web Application Developer @ LIDL Slovakia (internship)
+- 2022 - 2024: Lecturer / Gamedev @ Hemisfera.sk (Part Time)
+- 2022 - 2023: Wezeo - C# Developer (internship / part time)
 - Since 2023: Teacher @ SPSKNM
-
