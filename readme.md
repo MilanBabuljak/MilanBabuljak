@@ -1,14 +1,14 @@
 
 # Hi, I'm Milan
 <[https://hiimmilan.dev](https://hiimmilan.dev)>
-- Bc. student @ VUT FIT
+- 3rd year Bc. student @ VUT FIT
 - Teacher @ SPŠ IT KNM
 - Game/Web/Embedded/XR Developer
 
 ## Current projects
+- Motion capture setup using RF array
 - Currently unannounced web app for VUT FIT's competition
 - Low cost ski race tracking solution
-- VR Poject with full body / face tracking
 
 ## Past Projects
 - CityApka - A comprehensive SmartCity solution integrating IoT sensors via LoRaWAN technology. It offers a user-friendly interface built in React for accessing real-time data and city updates. Custom sensors were developed for this project.
