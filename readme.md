@@ -8,7 +8,7 @@
 ## Current projects
 - Motion capture setup using RF array
 - Currently unannounced web app for VUT FIT's competition
-- Compiler project for VUT FIT compilers class
+- Anti-plagiatorism platform for coding tasks
 - Low cost ski race tracking solution
 
 ## Past Projects
