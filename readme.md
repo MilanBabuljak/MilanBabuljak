@@ -6,10 +6,10 @@
 - Game/Web/Embedded/XR Developer
 
 ## Current projects
-- Motion capture setup using RF array
-- Currently unannounced web app for VUT FIT's competition
-- Anti-plagiatorism platform for coding tasks
-- Low cost ski race tracking solution
+- Various avian type robots, drones, etc.
+- Web app for management of members of student clubs and their tasks 
+- Really simple FPGA GPU
+- AR system for augumenting VRChat to real enviroments in real time
 
 ## Past Projects
 - CityApka - A comprehensive SmartCity solution integrating IoT sensors via LoRaWAN technology. It offers a user-friendly interface built in React for accessing real-time data and city updates. Custom sensors were developed for this project.
